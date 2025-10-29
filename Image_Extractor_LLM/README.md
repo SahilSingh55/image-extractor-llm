@@ -293,4 +293,3 @@ For best results, test with images containing:
 
 ---
 
-**Ready to use! 🚀**
