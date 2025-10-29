@@ -1,0 +1,15 @@
+Django==4.2.7
+Pillow==10.1.0
+pytesseract==0.3.10
+opencv-python==4.8.1.78
+numpy==1.24.3
+rembg==2.0.50
+transformers==4.35.2
+torch==2.1.1
+torchvision==0.16.1
+requests==2.31.0
+python-dotenv==1.0.0
+djangorestframework==3.14.0
+django-cors-headers==4.3.1
+Pillow-SIMD==10.0.0.post1
+easyocr==1.7.0
